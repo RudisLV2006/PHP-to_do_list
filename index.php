@@ -7,5 +7,9 @@
 </head>
 <body>
     <h1>This is for code</h1>
+
+
+    <form action="" method="POST"></form>
+    
 </body>
 </html>

@@ -24,9 +24,10 @@ function showTask($inputTasks){
 
 do {
     echo "Uzdevumu parvaldnieks\n";
-    echo "Apskatīt visus uzdevumus => 1\n";
+    echo "Izvadīt visu uzdevumu sarakstu => 1\n";
     echo "Ievadīt jaunu uzdevumu => 2\n";
     echo "Apskatīt vienu uzdevumu => 3\n";
+    echo "Iziet ārā => 'N'";
     $choise = readline("Izvelaties darbību: ");
 
     switch ($choise) {
